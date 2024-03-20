@@ -6,8 +6,6 @@ urlpatterns = [
     path('', views.home, name="home"),  # Define the path to the home view
     path('add',views.add, name ='add' )
 
-
-
 ]
 
 
