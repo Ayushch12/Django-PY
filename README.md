@@ -1,4 +1,4 @@
-# Django - Reservation Country
+# Django - Reservation Sites
 
 > **Code Owners:** `Ayush Chalise`
 
